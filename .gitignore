@@ -1,0 +1,5 @@
+*.sln
+*.db
+*.opendb
+Debug/
+Release/
