@@ -1,4 +1,4 @@
-# Texture-Practice
+# Texture Practice
 
 CS2015 Project2
 
